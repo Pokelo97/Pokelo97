@@ -46,6 +46,12 @@
 <!--END_SECTION:activity-->
 
 </details>
+<br/>
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  [![Web-Chat](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=Web-Chat&theme=dark)](https://github.com/Pokelo97/Web-Chat)<br/>
+
+</details>
 
 [facebook]: https://www.facebook.com/lucky.mohlala.399
 [linkedin]: https://linkedin.com/in/mohlala-lucky-bb496a185
