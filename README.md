@@ -30,6 +30,16 @@
 
 <br />
 <br />
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. [Node.js API Authentication Project](https://github.com/Pokelo97/nodeJS-API-Authentication-Project)
+<!--END_SECTION:activity-->
+
+</details>
 
 [facebook]: https://www.facebook.com/lucky.mohlala.399
 [linkedin]: https://linkedin.com/in/mohlala-lucky-bb496a185
