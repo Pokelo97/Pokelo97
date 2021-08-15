@@ -35,20 +35,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. [Node.js API Authentication Project](https://github.com/Pokelo97/nodeJS-API-Authentication-Project)
-2. [E-commerce Project](https://github.com/Pokelo97/reactjs-nodejs-redux-E-commerce)
-3. [Node.js and SendMailer Project](https://github.com/Pokelo97/nodeJS-API-SendMailer)
-4. [Web Chat](https://github.com/Pokelo97/)
-<!--END_SECTION:activity-->
-
-</details>
-<br/>
-
----
+### Recent GitHub Activity
 
 [![Node.js authentication API](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=nodeJS-API-Authentication-Project&theme=dark)](https://github.com/Pokelo97/nodeJS-API-Authentication-Project)<br/>
 [![reactjs-nodejs-redux-E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=reactjs-nodejs-redux-E-commerce&theme=dark)](https://github.com/Pokelo97/reactjs-nodejs-redux-E-commerce)<br/>
