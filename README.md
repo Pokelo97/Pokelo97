@@ -37,6 +37,9 @@
   
 <!--START_SECTION:activity-->
 1. [Node.js API Authentication Project](https://github.com/Pokelo97/nodeJS-API-Authentication-Project)
+2. [E-commerce Project](https://github.com/Pokelo97/reactjs-nodejs-redux-E-commerce)
+3. [Node.js and SendMailer Project](https://github.com/Pokelo97/nodeJS-API-SendMailer)
+4. [Web Chat](https://github.com/Pokelo97/)
 <!--END_SECTION:activity-->
 
 </details>
