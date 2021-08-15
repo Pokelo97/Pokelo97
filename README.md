@@ -51,6 +51,7 @@
 ---
 
 [![Node.js authentication API](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=nodeJS-API-Authentication-Project&theme=dark)](https://github.com/Pokelo97/nodeJS-API-Authentication-Project)<br/>
+[![reactjs-nodejs-redux-E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=reactjs-nodejs-redux-E-commerce&theme=dark)](https://github.com/Pokelo97/reactjs-nodejs-redux-E-commerce)<br/>
 [![Web-Chat](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=Web-Chat&theme=dark)](https://github.com/Pokelo97/Web-Chat)<br/>
 
 
