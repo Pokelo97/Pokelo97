@@ -10,7 +10,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/link.svg" />][website]
+[<img align="left" alt="website" width="22px" src="![image](https://user-images.githubusercontent.com/77030967/130321309-48a1e32f-61fc-46e4-b215-16917717b050.png)" />][website]
 
 <br />
 
