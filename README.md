@@ -10,6 +10,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/link.svg" />][website]
 
 <br />
 
@@ -43,8 +44,10 @@
 [![reactjs-nodejs-redux-E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=reactjs-nodejs-redux-E-commerce&theme=dark)](https://github.com/Pokelo97/reactjs-nodejs-redux-E-commerce)<br/>
 [![Web-Chat](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=Web-Chat&theme=dark)](https://github.com/Pokelo97/Web-Chat)<br/>
 [![Ionic-todo-app](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=Ionic-todo-app&theme=dark)](https://github.com/Pokelo97Ionic-todo-app)<br/>
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=portfolio&theme=dark)](https://github.com/Pokelo97/portfolio)<br/>
 
 
+[website]:https://portfolio-dcb29.web.app
 [facebook]: https://www.facebook.com/lucky.mohlala.399
 [linkedin]: https://linkedin.com/in/mohlala-lucky-bb496a185
 [links]: https://github.com/Pokelo97
