@@ -29,6 +29,8 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][links]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][links]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][links]
+
+[<img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][links]
 
 <br />
@@ -40,6 +42,7 @@
 [![Node.js authentication API](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=nodeJS-API-Authentication-Project&theme=dark)](https://github.com/Pokelo97/nodeJS-API-Authentication-Project)<br/>
 [![reactjs-nodejs-redux-E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=reactjs-nodejs-redux-E-commerce&theme=dark)](https://github.com/Pokelo97/reactjs-nodejs-redux-E-commerce)<br/>
 [![Web-Chat](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=Web-Chat&theme=dark)](https://github.com/Pokelo97/Web-Chat)<br/>
+[![Ionic-todo-app](https://github-readme-stats.vercel.app/api/pin/?username=Pokelo97&repo=Ionic-todo-app&theme=dark)](https://github.com/Pokelo97Ionic-todo-app)<br/>
 
 
 [facebook]: https://www.facebook.com/lucky.mohlala.399
